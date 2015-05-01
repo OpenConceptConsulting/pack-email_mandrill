@@ -1,0 +1,25 @@
+{
+  "name": "email_mandrill",
+  "types": ["pack"],
+  "version": "0.9",
+  "homepage": "https://github.com/OpenConceptConsulting/pack-email_mandrill",
+  "author": "t0xicCode",
+  "description": "Adds commands to notify over mandrill",
+  "contributors": [
+  {
+    "name": "t0xicCode",
+    "email": "xavier@openconcept.ca"
+  }
+  ],
+  "repository": "https://github.com/OpenConceptConsulting/pack-email_mandrill",
+  "keywords": [
+    "pack",
+    "email",
+    "mandrill",
+    "notification"
+  ],
+  "dependencies": {
+    "shinken": ">=1.4"
+  },
+  "license": "MIT"
+}
